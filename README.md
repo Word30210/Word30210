@@ -48,3 +48,22 @@ Roblox game developer from Korea
 </div>
 
 ###
+
+<details>
+  <summary>My TODO list</summary>
+  <blockquote>
+    Class for rblx: https://github.com/Word30210/Class
+  </blockquote>
+  
+  <blockquote>
+    llex(flex in lua): private
+  </blockquote>
+
+  <blockquote>
+    lyacc(yacc in lua): private
+  </blockquote>
+
+  <blockquote>
+    RoPG Maker(rpg maker in lua): private
+  </blockquote>
+</details>
