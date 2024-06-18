@@ -34,7 +34,11 @@ Roblox game developer from Korea
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,lua,python,c,ruby)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=lua,python,c,ruby)](https://skillicons.dev)
+
+###
+
+[![My Tools](https://skillicons.dev/icons?i=robloxstudio,vscode)](https://skillicons.dev)
 
 ###
 
