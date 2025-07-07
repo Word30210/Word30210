@@ -51,6 +51,8 @@ Roblox game developer from Korea
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Word30210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$Word30210)
+
 ###
 
 <details>
