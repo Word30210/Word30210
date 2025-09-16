@@ -24,9 +24,11 @@ Roblox game developer from Korea
 
 - 🔭 I’m currently working on [Sol's RNG](https://www.roblox.com/games/15532962292/Sols-RNG)
 
-- 🌱 I’m currently learning **C, lex, yacc**
+- 🌱 I’m currently learning **java(in school)**
 
-- 📫 How to reach me **wordisnottoto@gmail.com**
+- 👀 I'm currently interested in rust, C#(Unity) and web programming(JS, TS, Html Css, Scss, various modern web technologies)
+
+- 📫 How to reach me **wordisnottoto@gmail.com** or `wor.d`(Discord)
 
 ###
 
@@ -34,7 +36,7 @@ Roblox game developer from Korea
 
 ###
 
-[![My Languages](https://skillicons.dev/icons?i=lua,python,c,cpp,ruby,go)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=lua,c,ruby)](https://skillicons.dev)
 
 ###
 
@@ -56,20 +58,9 @@ Roblox game developer from Korea
 ###
 
 <details>
-  <summary>My TODO list</summary>
-  <blockquote>
-    Class for rblx: https://github.com/Word30210/Class
-  </blockquote>
-  
-  <blockquote>
-    llex(flex in lua): private
-  </blockquote>
+  <summary>My Projects</summary>
 
   <blockquote>
-    lyacc(yacc in lua): private
-  </blockquote>
-
-  <blockquote>
-    RoPG Maker(rpg maker in lua): private
+    Sakura(a browser in roblox, luau!): https://github.com/Word30210/Sakura
   </blockquote>
 </details>
