@@ -24,7 +24,7 @@ Roblox game developer from Korea
 
 - 🔭 I’m currently working on [Sol's RNG](https://www.roblox.com/games/15532962292/Sols-RNG)
 
-- 🌱 I’m currently learning **java(in school)**
+- 🌱 I’m currently learning **java(in school) and java is suck**
 
 - 👀 I'm currently interested in rust, C#(Unity) and web programming(JS, TS, Html Css, Scss, various modern web technologies)
 
