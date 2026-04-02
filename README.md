@@ -24,9 +24,9 @@ Roblox game developer from Korea
 
 - 🔭 I’m currently working on [Sol's RNG](https://www.roblox.com/games/15532962292/Sols-RNG)
 
-- 🌱 I’m currently learning **java(in school) and java is suck**
+- 🌱 I’m currently learning **Rust**
 
-- 👀 I'm currently interested in rust, C#(Unity) and web programming(JS, TS, Html Css, Scss, various modern web technologies)
+- 👀 I'm currently interested in Rust, C#(Unity) and web programming(JS, TS, Html Css, Scss, various modern web technologies)
 
 - 📫 How to reach me **wordisnottoto@gmail.com** or `wor.d`(Discord)
 
@@ -36,11 +36,11 @@ Roblox game developer from Korea
 
 ###
 
-[![My Languages](https://skillicons.dev/icons?i=lua,c,ruby)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=lua,rust,c,ruby)](https://skillicons.dev)
 
 ###
 
-[![My Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,git,vim)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,git,neovim,vim)](https://skillicons.dev)
 
 ###
 
